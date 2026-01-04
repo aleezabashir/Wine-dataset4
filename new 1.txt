@@ -1,0 +1,8 @@
+%%writefile requirements.txt
+streamlit
+scikit-learn
+pandas
+joblib
+numpy
+
+
